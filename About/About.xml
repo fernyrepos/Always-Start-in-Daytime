@@ -6,6 +6,7 @@
   <description>Makes all runs start in the daytime.</description>
   <supportedVersions>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
 	<modDependencies>
 		<li>

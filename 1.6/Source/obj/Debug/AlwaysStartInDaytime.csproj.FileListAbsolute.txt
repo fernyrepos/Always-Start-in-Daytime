@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Always Start in Daytime\1.5\Assemblies\AlwaysStartInDaytime.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Always Start in Daytime\1.5\Source\obj\Debug\AlwaysStartInDaytime.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Always Start in Daytime\1.5\Source\obj\Debug\AlwaysStartInDaytime.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Always Start in Daytime\1.5\Source\obj\Debug\AlwaysStartInDaytime.dll
